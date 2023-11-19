@@ -1,1 +1,1 @@
-# django_for_beginners
+# DJANGO FOR BEGINNERS
