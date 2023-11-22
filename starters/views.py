@@ -6,4 +6,5 @@ def index(request):
         return  render(request, 'index.html', context)
 
 def counter(request):
-        return render(request, 'counter.html' )
+        text = request.GET['text']
+        return render(request, 'counter.html')
