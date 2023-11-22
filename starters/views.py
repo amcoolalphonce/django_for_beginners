@@ -6,4 +6,4 @@ def index(request):
                 'name' : 'Amcool',
                 'age' : '22',
         }
-        return  render(request, 'index.html', {'name': name})
+        return  render(request, 'index.html', context)
