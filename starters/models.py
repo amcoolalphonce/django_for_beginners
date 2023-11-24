@@ -4,3 +4,4 @@ from django.db import models
 class Feature():
         id : int
         name : string
+        details: string 
