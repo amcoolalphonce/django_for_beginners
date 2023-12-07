@@ -22,3 +22,5 @@ A stepwise guide to learning and beginning your django journey with code and exa
 
 
 ## CONTACT ME
+
+![Alt text](image-7.png)
