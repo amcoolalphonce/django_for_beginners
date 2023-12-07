@@ -8,3 +8,4 @@ A stepwise guide to learning and beginning your django journey with code and exa
 ![Alt text](image-1.png)
 
 ## RESUME
+![Alt text](image-2.png)
