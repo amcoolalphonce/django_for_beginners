@@ -3,3 +3,5 @@ A stepwise guide to learning and beginning your django journey with code and exa
 
 ## HOMEPAGE VIEW
 ![Alt text](image.png)
+
+## ABOUT 
