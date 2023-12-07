@@ -5,3 +5,4 @@ A stepwise guide to learning and beginning your django journey with code and exa
 ![Alt text](image.png)
 
 ## ABOUT 
+![Alt text](image-1.png)
