@@ -3,7 +3,6 @@ from django.http import HttpResponse
 from .models import Feature
 
 def index(request):
-
         return  render(request, 'index.html')
 
 
