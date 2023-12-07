@@ -1,6 +1,8 @@
 # DJANGO FOR BEGINNERS
 A stepwise guide to learning and beginning your django journey with code and example
 
+### Below are the screenshots for the project
+
 ## HOMEPAGE VIEW
 ![Alt text](image.png)
 
